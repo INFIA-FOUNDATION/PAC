@@ -1,3 +1,2 @@
-
 class EGSError(Exception):
-    pass
+pass
